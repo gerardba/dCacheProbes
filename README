@@ -1,0 +1,8 @@
+Initially I'm uploading PIC ad-hoc nagios probes but I believe they can be easily adapted to fit any site.
+
+It would be good to separate configuration from the script themselves.
+
+As you will see, scripts can be heavily improved; feel free to modify and share them!
+
+Regards,
+ Gerard Bernabeu (from PIC, Barcelona)
